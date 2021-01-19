@@ -25,3 +25,11 @@ data manipulation: pandas, numpy.
 Hyper parameter tuning: Grid Search.
 modeling: Decision Tree.
 Evaluation: Confusion metrics.
+
+# Grid search:
+With the help of grid search, we will come to know what is the best parameter for our model to become more accurate.
+Hence, we will apply decision tree algorithm with the minimum split / maximum depth givn by Grid search. 
+Eventually, as per grid search , with maximum depth of or minumum split of 25, the model performs well. 
+The accuracy we got is 72.58 %
+. 
+Thank you.
